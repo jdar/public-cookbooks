@@ -1,0 +1,3 @@
+[submodule "chef-webdis"]
+	path = chef-webdis
+	url = https://github.com/eqot/chef-webdis
